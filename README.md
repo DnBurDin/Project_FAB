@@ -15,3 +15,7 @@ Why are you Here.
 - Loves horror<br>
 - Polar Opposite-ish of Natasha</p>
 
+<p>BANGA<br>
+-i can draw<br>
+-and i forgor<br>
+-yeah</p>
