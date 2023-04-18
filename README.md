@@ -21,6 +21,8 @@ Why are you Here.
 
 <a><img src="Banga.png" alt="Chloe"></a>
 <p>BANGA<br>
--i can draw<br>
--and i forgor<br>
--yeah</p>
+<ul>
+<li>Can draw</li>
+<li>Is prone to forgor</li>
+<li>yeah</li>
+</ul>
