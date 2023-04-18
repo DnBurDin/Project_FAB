@@ -9,12 +9,12 @@ Why are you Here.
 
 <p>FOLLANTE: <br></p>
 <ul>
-<li>- Likes the things you don't know about</li>
-<li>- Best War Historian in SMC26</li>
-<li>- Gun Enthusiast</li>
-<li>- Your irregular Gamer</li>
-<li>- Loves horror</li>
-<li>- Polar Opposite-ish of Natasha</li>
+<li> Likes the things you don't know about</li>
+<li> Best War Historian in SMC26</li>
+<li> Gun Enthusiast</li>
+<li> Your irregular Gamer</li>
+<li> Loves horror</li>
+<li> Polar Opposite-ish of Natasha</li>
 </ul>
 
 <p>BANGA<br>
