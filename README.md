@@ -19,6 +19,7 @@ Why are you Here.
 <li> Polar Opposite-ish of Natasha</li>
 </ul>
 
+<a><img src="Banga.png" alt="Chloe"></a>
 <p>BANGA<br>
 -i can draw<br>
 -and i forgor<br>
