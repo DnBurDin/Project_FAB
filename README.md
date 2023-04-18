@@ -7,6 +7,8 @@ Why are you Here.
 
 <h2>The Peeps:</h2>
 
+
+<a><img src="Follante.png" alt="Karl></a>
 <p>FOLLANTE: <br></p>
 <ul>
 <li> Likes the things you don't know about</li>
@@ -18,8 +20,6 @@ Why are you Here.
 </ul>
 
 <p>BANGA<br>
-<ul>
-<li>can draw</li>
-<li>prone to forgor</li>
-<li>yeah</li>
-</ul>
+-i can draw<br>
+-and i forgor<br>
+-yeah</p>
