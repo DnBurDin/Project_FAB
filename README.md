@@ -18,6 +18,8 @@ Why are you Here.
 </ul>
 
 <p>BANGA<br>
--i can draw<br>
--and i forgor<br>
--yeah</p>
+<ul>
+<li>can draw</li>
+<li>prone to forgor</li>
+<li>yeah</li>
+</ul>
