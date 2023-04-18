@@ -8,7 +8,7 @@ Why are you Here.
 <h2>The Peeps:</h2>
 
 
-<a><img src="Follante.png" alt="Karl></a>
+<a><img src="Follante.png" alt="Karl"></a>
 <p>FOLLANTE: <br></p>
 <ul>
 <li> Likes the things you don't know about</li>
