@@ -8,10 +8,10 @@ Why are you Here.
 <h2>The Peeps:</h2>
 
 <p>FOLLANTE: <br>
-- Likes the things you don't know about.
-- Best War Historian in SMC26.
-- Gun Enthusiast.
-- Your irregular Gamer.
-- Loves horror.
+- Likes the things you don't know about<br>
+- Best War Historian in SMC26<br>
+- Gun Enthusiast<br>
+- Your irregular Gamer<br>
+- Loves horror<br>
 - Polar Opposite-ish of Natasha</p>
 
