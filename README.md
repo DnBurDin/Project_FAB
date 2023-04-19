@@ -27,7 +27,7 @@ Why are you Here.
 <li>yeah</li>
 </ul>
 
-![Lee](Adiong.png)
+<a><img src="Adiong.png" alt="Lee"></a>
 ADIONG:
 - Likes trolling in video games
 - May or may not contribute in group projects
