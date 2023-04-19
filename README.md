@@ -27,8 +27,10 @@ Why are you Here.
 <li>yeah</li>
 </ul>
 
-<a><img src="Adiong.png" alt="Lee"></a>
-ADIONG:
-- Likes trolling in video games
-- May or may not contribute in group projects
-- Not good at creativity
+<a> <img src="Adiong.png" alt="Lee"> </a>
+<p> ADIONG: <br> </p>
+<ul>
+<li> Likes trolling in video games </li>
+<li> May or may not contribute in group projects </li>
+<li> Not good at creativity stuff </li>
+</ul>
