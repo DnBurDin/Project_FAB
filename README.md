@@ -26,3 +26,9 @@ Why are you Here.
 <li>Is prone to forgor</li>
 <li>yeah</li>
 </ul>
+
+![Lee](Adiong.png)
+ADIONG:
+- Likes trolling in video games
+- May or may not contribute in group projects
+- Not good at creativity
